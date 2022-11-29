@@ -13,7 +13,7 @@
 [![jsdelivr cdn](https://data.jsdelivr.com/v1/package/npm/linux-command/badge)](https://www.jsdelivr.com/package/npm/linux-command)
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/wcjiang/linux-command?logo=docker)](https://hub.docker.com/r/wcjiang/linux-command)
 
-当前仓库搜集了 570 多个 Linux 命令，是一个非盈利性的仓库，生成了一个 web 网站方便使用，目前网站没有任何广告，内容包含 Linux 命令手册、详解、学习，内容来自网络和网友的补充，非常值得收藏的 Linux 命令速查手册。版权归属原作者，对任何法律问题及风险不承担任何责任，没有任何商业目的，如果认为侵犯了您的版权，请来信告知。我不能完全保证内容的正确性。通过使用本站内容带来的风险与我无关。当使用本站时，代表您已接受了本站的使用条款和隐私条款。
+The current warehouse has collected more than 570 Linux commands. It is a non-profit warehouse and has generated a web site for easy use. Currently, the site does not have any advertisements. The content includes Linux command manuals, detailed explanations, and learning. The content comes from the Internet and supplements from netizens. Very worthy collection of Linux command quick reference manual. The copyright belongs to the original author, and he does not assume any responsibility for any legal issues and risks, and has no commercial purpose. If you think your copyright has been violated, please write to let us know. I cannot fully guarantee the correctness of the content. The risks arising from the use of the contents of this site are not mine. When using this site, it means that you have accepted the terms of use and privacy policy of this site.
 
 [Web](#web-版本) | [微信小程序](#微信小程序版本) | [Dash](#dash-版本) | [Raycast](#raycast-版本) | [Alfred](#alfred-版本) | [KDE/Krunner](https://github.com/roachsinai/krunner-linuxcommands) | [Android](https://github.com/Ernest-su/LinuxCmd.git) | [Mac/Win/Linux](https://github.com/haloislet/linux-command) | [Chrome Plugin](#chrome-插件) | [命令行工具](#命令行工具) | [Docker](#docker)
 
